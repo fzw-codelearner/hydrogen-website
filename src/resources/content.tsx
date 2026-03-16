@@ -8,6 +8,7 @@ const person: Person = {
   role: "团队混子",
   avatar: "/images/avatar.jpg",
   email: "3498363975@qq.com",
+  location:"Asia/Shanghai",
   languages: ["English", "Chinese"], // optional: Leave the array empty if you don't want to display languages
 };
 
